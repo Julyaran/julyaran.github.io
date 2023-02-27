@@ -1,0 +1,2 @@
+!= No es igual			javascript != java
+Var no acepta espacio. Se utiliza _	Ej: july_aran
